@@ -10,3 +10,6 @@ certfile
 keyfile
 geckodriver.log
 .env
+.vscode
+.venv/
+*.csv
