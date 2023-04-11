@@ -1,9 +1,36 @@
-# NBA Game Predictor Project
+<div align="center">
+    <h1>NBA game predictor</h1>
+    <i>Click <a href=" https://cmunch1-nba-prediction-streamlit-app-fs5l47.streamlit.app/">here </a>to see it in action</i>
+</div>
+<br />
+<div align="center">
+    <sub>Let's connect 🤗</sub>
+    <br />
+    <a href="https://twitter.com/curiovana">Twitter</a> •
+    <a href="https://www.linkedin.com/in/chris-munch/">LinkedIn</a>
+<br />
+</div>
 
 ![image info](./images/basketball_money2.jpg)
 
+#### Table of contents
+- [Introduction](#introduction)
+- [Problem](#problem-increase-the-profitability-of-betting-on-nba-games)
+- [Initial step](#initial-step-predict-the-probability-that-the-home-team-will-win-each-game)
+- [Plan](#plan)
+- [Overview](#overview)
+- [Future Possibilities](#future-possibilities)
+- [Structure](#structure)
+- [Data](#data)
+- [EDA and data processing](#eda-and-data-processing)
+- [Train/validation/test split](#train--testvalidation-split)
+- [Baseline models](#baseline-models)
+- [Feature engineering](#feature-engineering)
+- [Model training/testing](#model-training-pipeline)
+- [Streamlit app](#streamlit-app)
+- [Feedback](#feedback)
 
-## Introduction ##
+## Introduction
 
 This project is a demonstration of my ability to quickly learn, develop, and deploy end-to-end machine learning technologies. I am currently seeking to change careers into Machine Learning / Data Science.
 
